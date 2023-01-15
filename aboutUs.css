@@ -1,0 +1,24 @@
+#team {
+  font-size: 30px;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.team {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#line
+{
+  margin-top: 20px;
+	border: 0;
+	border-bottom: 2px dashed #ccc;
+}
+.text {
+  font-size: 30px;
+}
+
+/*#katherine {
+}
+*/
